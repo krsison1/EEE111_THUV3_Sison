@@ -1,0 +1,3 @@
+item,qty,category,urgency,status
+Chicken,1 kg,Meat,Not Urgent,Unavailable
+Fish,3 kg,Meat,Not Urgent,Available
