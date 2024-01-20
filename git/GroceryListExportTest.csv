@@ -1,0 +1,11 @@
+item,qty,category,urgency,status
+Chicken,1 kg,Meat,Not Urgent,Unavailable
+Fish,3 kg,Meat,Not Urgent,Available
+safeguard,1 box,Household,Urgent,Unavailable
+trash bag,1 pack,Household,Not Urgent,Available
+ground pork,1 kg,Meat,Urgent,Available
+Coke zero,6 cans,Drinks,Not Urgent,Unavailable
+Ketchup,1 bottle,Condiments,Urgent,Unavailable
+Tissue Roll,1 pack,Household,Urgent,Available
+Royal orange,6 cans,Drinks,Not Urgent,Available
+Fresh Milk,1 box,Dairy,Urgent,Available
